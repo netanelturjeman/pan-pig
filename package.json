@@ -1,0 +1,10 @@
+{
+  "name": "pig",
+  "version": "0.0.2",
+  "description": "pig game",
+  "dependencies": {
+  },
+  "scripts": {
+    "test": "./test.sh"
+  }
+}
