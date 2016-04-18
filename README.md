@@ -1,4 +1,4 @@
 # pan-pig
 
-## Running game simulation
+### Running game simulation
 `npm test`
